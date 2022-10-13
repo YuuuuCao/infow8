@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "readme main branch"
+=======
+title: "readme(conflict branchhhhhh)"
+>>>>>>> conflict
 output: html_document
 date: "2022-10-13"
 ---
